@@ -1,0 +1,30 @@
+{
+  "ticket_id": "CS-1042",
+  "customer_type": "retail_customer",
+  "contact_method": "live_chat",
+  "issue_type": "order_tracking",
+  "priority": "medium",
+  "status": "resolved",
+  "customer_message": "I placed an order last week and have not received tracking yet.",
+  "support_response_summary": "Verified the order status, located the tracking information, and provided the customer with an updated delivery estimate.",
+  "resolution": {
+    "action_taken": "Provided tracking details and confirmed the package was in transit.",
+    "tracking_sent": true,
+    "follow_up_needed": false,
+    "escalation_required": false
+  },
+  "quality_check": {
+    "accurate_information": true,
+    "professional_tone": true,
+    "complete_documentation": true,
+    "customer_issue_resolved": true
+  },
+  "skills_demonstrated": [
+    "Customer Support",
+    "Online Chat Support",
+    "Order Tracking",
+    "Documentation",
+    "Data Accuracy",
+    "Quality Assurance"
+  ]
+}
