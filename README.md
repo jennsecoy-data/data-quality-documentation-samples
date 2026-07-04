@@ -15,6 +15,9 @@ Shows how a support interaction or task output can be reviewed for accuracy, com
 ### Data Verification Sample
 Shows how a customer or order record can be reviewed for missing information, formatting issues, and follow-up actions.
 
+### Order Tracking CSV Sample
+Shows how order records can be organized in a spreadsheet-style format with order status, tracking numbers, issue notes, and follow-up needs.
+
 ## Skills Demonstrated
 
 - Data quality review
@@ -27,4 +30,4 @@ Shows how a customer or order record can be reviewed for missing information, fo
 - Data verification
 - Quality assurance
 - Attention to detail
-
+- Spreadsheet-style data organization
