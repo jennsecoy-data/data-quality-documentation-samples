@@ -1,0 +1,39 @@
+{
+  "review_id": "QA-2087",
+  "task_type": "customer_support_quality_review",
+  "review_date": "2026-07-03",
+  "review_status": "completed",
+  "agent_response_summary": "The agent responded to a customer asking about a delayed order and provided tracking information.",
+  "rubric": {
+    "accuracy": {
+      "score": 5,
+      "max_score": 5,
+      "notes": "The response provided accurate order status and tracking information."
+    },
+    "completeness": {
+      "score": 4,
+      "max_score": 5,
+      "notes": "The main issue was resolved, but the response could have included the expected delivery date."
+    },
+    "professional_tone": {
+      "score": 5,
+      "max_score": 5,
+      "notes": "The tone was polite, clear, and customer-focused."
+    },
+    "documentation_quality": {
+      "score": 5,
+      "max_score": 5,
+      "notes": "The interaction was documented clearly with the issue type, action taken, and resolution."
+    }
+  },
+  "overall_result": "meets_quality_standards",
+  "recommended_follow_up": "No escalation needed. Add estimated delivery date when available.",
+  "skills_demonstrated": [
+    "Quality Assurance",
+    "Documentation Review",
+    "Customer Support",
+    "Data Accuracy",
+    "Attention to Detail",
+    "Process Improvement"
+  ]
+}
